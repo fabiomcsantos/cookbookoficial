@@ -45,26 +45,6 @@ html{
 
 }
 
-.Bot button{
-  background-color: var(--verde-escuro);
-  width: 3.2rem;
-  height: 3.2rem;
-  border-radius: 50%;
-  margin: 3.3rem;
-  border-color: #fff;
-  box-shadow: 0px 4px 4px  #696767;
-  position: relative;
-  align-items: center;
-  top: -19rem;
-  left: 56rem;
-  cursor: pointer;
-}
-
-.Bot button:hover{
-  background-color: #6A1313;
-  cursor: pointer;
-}
-
 .imagens{
   display: flex;
   flex-direction: column;
