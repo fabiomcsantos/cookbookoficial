@@ -26,7 +26,7 @@ html{
 }
 
 .Container{
-  background-image: url("../public/images/background.png");
+  background-image: url("../../../public/images/background.png");
   width: 144rem;
   height:auto; 
   display:flex;

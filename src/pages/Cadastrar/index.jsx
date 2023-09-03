@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header/index";
-import Footer from "../../components/footer/index";
+import Footer from "../../components/Footer/index";
 import styles from "../Cadastrar/cadastrar.module.css";
 import { Link } from "react-router-dom";
 
