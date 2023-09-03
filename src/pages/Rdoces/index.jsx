@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './RDoces.module.css'
 import Header from '../../components/header/index'
-import Footer from '../../components/footer/index'
+import Footer from '../../components/Footer/index'
 import { Link } from "react-router-dom";
 
 
