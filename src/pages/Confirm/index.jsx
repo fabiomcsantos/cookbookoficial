@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './confirm.module.css'
-import Header from '../../components/Header/index'
+import Header from '../../components/header/index'
 import Footer from '../../components/footer/index'
 import { Link } from 'react-router-dom'
 
