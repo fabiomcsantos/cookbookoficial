@@ -12,12 +12,12 @@ function RAberta() {
     <>
     <Header/>
 <div className={styles.Root}>
-<div className={styles.Voltar}><Link to="/"><img className={styles.Seta} src="./public/icons/seta-esquerda.png" alt="" /> Voltar</Link></div>
+<div className={styles.Voltar}><Link to="/"><img className={styles.Seta} src="../../../public/icons/seta-esquerda.png" alt="" /> Voltar</Link></div>
    
    <div className={styles.geral}>
       
         <div className={styles.conteudo}>
-            <img className={styles.foto} src="./public/images/ossobuco.jpeg" alt=""/>
+            <img className={styles.foto} src="../../../public/images/ossobuco.jpeg" alt=""/>
             <div className={styles.receita}> 
                     <h2 className={styles.TitleH2}>Ingredientes</h2>
                         <ul className={styles.TextUl} >

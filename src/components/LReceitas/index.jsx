@@ -3,7 +3,6 @@ import styles from './ListaReceitas.module.css';
 import {Link} from 'react-router-dom';
 
 
-
 function Lreceitas({doces}) {
 
  console.log(doces)

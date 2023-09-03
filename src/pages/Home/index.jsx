@@ -8,7 +8,6 @@ import {Swiper, SwiperSlide } from 'swiper/react'
 
 
 
-
 function Home() {
 
   const data = [
@@ -52,9 +51,9 @@ function Home() {
     
     </div>
     <div className={styles.imagens}>
-      <div className={styles.Img1}> <Link to="/RSalgadas"> <img className={styles.Img} src="./public/images/salgado.png" alt="" /><button className={styles.Botao}>Salgadas</button></Link></div>
-      <div className={styles.Img2}> <Link to="RDoces"> <img className={styles.Img} src="./public/images/doces.png" alt="" /><button className={styles.Botao}>Doces</button></Link></div>
-      <div className={styles.Img3}><Link to="RBebidas">  <img className={styles.Img} src="./public/images/bebidas.png" alt="" /><button className={styles.Botao}>Bebidas</button></Link></div>
+      <div className={styles.Img1}> <Link to="/RSalgadas"> <img className={styles.Img} src="../../../public/images/salgado.png" alt="" /><button className={styles.Botao}>Salgadas</button></Link></div>
+      <div className={styles.Img2}> <Link to="RDoces"> <img className={styles.Img} src="../../../public/images/doces.png" alt="" /><button className={styles.Botao}>Doces</button></Link></div>
+      <div className={styles.Img3}><Link to="RBebidas">  <img className={styles.Img} src="../../../public/images/bebidas.png" alt="" /><button className={styles.Botao}>Bebidas</button></Link></div>
     </div>
   </div>
     <Footer/>
