@@ -13,7 +13,7 @@ function Error() {
     <div className={styles.Root}>
       <div className={styles.Container}>
         <div className={styles.Error}>
-          <img className={styles.icon} src=".././public/icons/alerta.png" alt="" />
+          <img className={styles.icon} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/alerta.png?raw=true" alt="" />
           <h1 className={styles.TitleH1}>Erro!</h1>
           <h2 className={styles.TitleH2}>Dados incorretos! <br></br><br></br> Por favor, tente novamente.</h2>
           <Link to="/"><button className={styles.Button}>Voltar</button></Link>

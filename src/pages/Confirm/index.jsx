@@ -13,7 +13,7 @@ function Confirm() {
     <div className={styles.Root}>
       <div className={styles.Container}>
         <div className={styles.Confirm}>
-          <img className={styles.icon} src="./public/icons/confirma.png" alt="" />
+          <img className={styles.icon} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/confirma.png?raw=true" alt="" />
           <h1 className={styles.TitleH1}>Confirmado!</h1>
           <h2 className={styles.TitleH2}>Cadastro efetuado com sucesso! <br></br><br></br><br></br></h2>
           <Link to="/"><button className={styles.Button}>Fechar</button></Link>

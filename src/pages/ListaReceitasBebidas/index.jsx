@@ -30,7 +30,7 @@ function Receitas() {
     
     <div className={styles.Root}>
       <Header />
-      <div className={styles.Voltar}><Link to="/RBebidas"><img className={styles.Seta} src="./public/icons/seta-esquerda.png" alt="" /> Voltar</Link></div>
+      <div className={styles.Voltar}><Link to="/RBebidas"><img className={styles.Seta} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/seta-esquerda.png?raw=true" alt="" /> Voltar</Link></div>
       <div className={styles.Conteudo}>
       <div className={styles.Line}>
 

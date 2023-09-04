@@ -15,9 +15,9 @@ function Lreceitas({doces}) {
         <p className={styles.TitleP}>{doces.titulo}</p>
         <div className={styles.Informations}>
           <div className={styles.Time}>
-            <img className={styles.IconTime} src="../../../public/icons/relogio.png" alt="" />
+            <img className={styles.IconTime} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/relogio.png?raw=true" alt="" />
             <p className={styles.TextTime}>{doces.tempo}</p>
-          <img className={styles.IconHeart} src="../../../public/icons/gostar.png" alt="" />
+          <img className={styles.IconHeart} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/gostar.png?raw=true" alt="" />
           </div>
         </div>
       </div>
