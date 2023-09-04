@@ -15,7 +15,7 @@ function RSalgada() {
     <div className={styles.Voltar}><Link to='/'><img className={styles.Seta} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/icons/seta-esquerda.png?raw=true" alt="" /> Voltar</Link></div>
     <div className={styles.imagens}>
       <div className={styles.Img1}><Link to='/ReceitasSalgadas'><img className={styles.Img} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/salgadopratico.png?raw=true" alt="" /><button className={styles.Botao}>Práticas</button></Link></div>
-      <div className={styles.Img2}><Link to='/ReceitasSalgadas'><img className={styles.Img} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/salgadoveg.png?raw=true" alt="" /><button className={styles.Botao}>Vegetárianas</button></Link></div>
+      <div className={styles.Img2}><Link to='/ReceitasSalgadas'><img className={styles.Img} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/salgadoveg.png?raw=true" alt="" /><button className={styles.Botao}>Vegetarianas</button></Link></div>
     </div>
     <div className={styles.imagens}>
       <div className={styles.Img3}><Link to='/ReceitasSalgadas'><img className={styles.Img} src="https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/salgadoquente.png?raw=true" alt="" /><button className={styles.Botao}>Quentes</button></Link></div>
