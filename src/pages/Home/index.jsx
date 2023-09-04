@@ -11,9 +11,9 @@ import {Swiper, SwiperSlide } from 'swiper/react'
 function Home() {
 
   const data = [
-    {id: '1', image: '../../../public/images/banner1.png'},
-    {id: '2', image: '../../../public/images/banner2.png'},
-    {id: '3', image: '../../../public/images/banner3.png'},
+    {id: '1', image: 'https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/banner1.png?raw=true'},
+    {id: '2', image: 'https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/banner2.png?raw=true'},
+    {id: '3', image: 'https://github.com/fabiomcsantos/cookbookoficial/blob/main/public/images/banner3.png?raw=true'},
   ]
 
   
